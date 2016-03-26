@@ -1,0 +1,32 @@
+{
+  "name": "arklet",
+  "version": "0.1.0",
+  "description": "An opinionated isomorphic React Content Management System with Redux & GraphQL",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KraigWalker/Arklet.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^2.5.1",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.2.3"
+  },
+  "browserify": {
+    "transform": [
+      "browserify-shim"
+    ]
+  },
+  "author": "Kraig Walker <kraig_walker@me.com>",
+  "homepage": "https://kraigwalker.com",
+  "license": "MIT",
+  "keywords": [
+    "cms"
+  ],
+  "readmeFilename": "README.md",
+  "gitHead": "",
+  "bugs": {},
+  "scripts": {},
+  "engines": {}
+}

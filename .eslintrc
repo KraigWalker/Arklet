@@ -1,0 +1,8 @@
+{
+	"extends": "airbnb",
+	rules: {
+		"strict": [2, "global"],
+		"indent": [2, "tab"],
+		"no-param-reassign": 0
+	}
+}
